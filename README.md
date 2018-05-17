@@ -1,0 +1,2 @@
+# FullScreenTransitionAnimal
+实现了今日头条等视频APP点击具体某一个视频全屏播放的效果
